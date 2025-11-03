@@ -9,6 +9,8 @@ One-liner to auto-install & run (& dev) a `fdevc runnable project` for [Sui temp
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/philogicae/sui-template)
 
+> Move Docs: [Move-Book with AI](https://deepwiki.com/MystenLabs/move-book)
+
 ## Quick Install
 
 ```bash
@@ -39,7 +41,7 @@ curl -fsSL https://raw.githubusercontent.com/philogicae/sui-template/main/instal
 
 > Your mnemonic phrase will only be visible once!
 
-2. Then copy-paste your `mnemonic phrase` to `./fdevc_setup/dev.passkey`
+2. Then copy-paste your `mnemonic phrase` to `./fdevc_setup/dev.passphrase`
 
 3. Import it in `Slush` browser extension.
 
